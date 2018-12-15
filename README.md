@@ -2,7 +2,7 @@
 
 Spark works natively with kubernetes - 
 
-1. Download the apache spark tar : wget https://www.apache.org/dyn/closer.lua/spark/spark-2.3.2/spark-2.3.2-bin-hadoop2.7.tgz
+1. Download the apache spark tar : wget https://www-us.apache.org/dist/spark/spark-2.3.2/spark-2.3.2-bin-hadoop2.7.tgz
 2. tar -zxvf spark-2.3.2-bin-hadoop2.7.tgz
 3. cd into the directory 
 4. Start building the docker image 
